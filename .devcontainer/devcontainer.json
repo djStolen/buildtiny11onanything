@@ -1,0 +1,10 @@
+{
+  "name": "PowerShell Dev Container",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "terminal.integrated.shell.linux": "/usr/bin/pwsh"
+  },
+  "extensions": [
+    "ms-vscode.powershell"
+  ]
+}
